@@ -47,7 +47,7 @@ All dates and locations hug the right margin. Tab stop position = content width 
 4. **Professional Summary** — bulleted points (not paragraph prose)
 5. **Professional Experience** — reverse chronological, each role with company header + title + bullets
 6. **Technical Skills** — category: skills format (bold category, regular skills)
-7. **Open Source Contributions** — bulleted with hyperlinks
+7. **Open Source Contributions** — grouped by subcategory (bold italic subheadings), bulleted with hyperlinks
 8. **Certifications** — grouped by subcategory (bold italic subheadings), each with credential hyperlink and optional date
 9. **Education** — same header/title format as experience, with relevant coursework
 
